@@ -653,8 +653,9 @@ body, html {
   margin: 2rem;
   font-size: 1.5rem;
   padding: 1rem 0.5rem;
-  transition: all 0.07s ease;
+  transition: all 0.08s ease;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .playing {
@@ -677,11 +678,11 @@ kbd {
 
 body {
   background: white;
-  transition: 0.07s ease;
+  transition: 0.08s ease;
 }
 
 .q {
-  background: #55DDE0;
+  background: #568259;
 }
 
 .s {
@@ -705,11 +706,11 @@ body {
 }
 
 .j {
-  background: #AAFCB8;
+  background: #f593e0;
 }
 
 .k {
-  background: #D7FFF1;
+  background: #822E81;
 }
 
 .l {
