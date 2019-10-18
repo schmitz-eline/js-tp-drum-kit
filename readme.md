@@ -4,6 +4,12 @@
 
 
 
+![readme](./readme.gif)
+
+
+
+
+
 Quand l'utilisateur presse une touche  : 
 
 1. Il faut vérifier si cette touche est *connue*. 
