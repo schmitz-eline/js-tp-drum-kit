@@ -1,4 +1,4 @@
-# tambou koulè 🎶
+# Tambou koulè 🎶
 
 *Bim bam boom* 🎶 🎵, le tout avec des couleurs. Dans le cadre de cet exercice, nous vous demandons de jouer un son particulier quand l'utiliser presse les touches visibles à l'écran. De plus, la couleur de fond change pendant un bref instant. 
 
