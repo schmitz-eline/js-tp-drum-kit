@@ -1,4 +1,4 @@
-# Tanbou koulè 🎶
+# Drum Kit 🎶
 
 > JS exercise given at HEPL
 
