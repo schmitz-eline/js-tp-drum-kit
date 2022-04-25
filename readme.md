@@ -14,6 +14,8 @@
 
 * * *
 
+Vous pouvez consulter une version finale du projet [ici](https://hepl-dcc.github.io/js-tp-drum-kit/).
+
 ## Énoncé
 
 ![readme](./readme.gif)
