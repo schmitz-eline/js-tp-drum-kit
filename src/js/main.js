@@ -14,7 +14,6 @@
                 document.documentElement.classList.add('js-enabled');
                 this.audios = {};
                 this.initData();
-                console.log(this.audios);
                 this.addEventListeners();
             },
             removeClasses(event) {
